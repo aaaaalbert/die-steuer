@@ -77,24 +77,7 @@
  <path fill="none" stroke="rgb(179,179,179)" stroke-linejoin="round" d="M 3299,1445 L 3449,1445"/>
  <path fill="none" stroke="rgb(179,179,179)" stroke-linejoin="round" d="M 3299,1445 L 3449,1445"/>
  <path fill="none" stroke="rgb(179,179,179)" stroke-linejoin="round" d="M 3449,11214 L 3449,1446"/>
- <defs>
-  <mask id="mask1">
-   <g>
-    <defs>
-     <linearGradient id="gradient1" x1="10297" y1="-25064" x2="10297" y2="-15214" gradientUnits="userSpaceOnUse">
-      <stop offset="0.5" style="stop-color:rgb(128,128,128)"/>
-      <stop offset="0.5" style="stop-color:rgb(128,128,128)"/>
-      <stop offset="1" style="stop-color:rgb(128,128,128)"/>
-      <stop offset="1" style="stop-color:rgb(128,128,128)"/>
-     </linearGradient>
-    </defs>
-    <path style="fill:url(#gradient1)" d="M 3311,-25063 L 17284,-25063 17284,-15215 3311,-15215 3311,-25063 Z"/>
-   </g>
-  </mask>
- </defs>
- <g style="mask:url(#mask1)">
-  <path fill="none" stroke="rgb(0,0,0)" stroke-width="80" stroke-linejoin="round" d="M 3449,11214 L 4843,10233 5658,9660 6237,9253 6686,8937 7052,8680 7362,8462 7631,8273 7868,8106 8080,7957 8272,7822 8895,7384 9474,6977 9922,6662 10289,6405 10599,6186 10867,5998 11316,5682 11683,5424 11847,5309 11993,5206 12261,5017 12498,4851 12710,4702 14104,3722 15947,2426 17342,1446"/>
- </g>
+ <path fill="none" stroke="rgb(128,128,128)" stroke-width="80" stroke-linejoin="round" d="M 3449,11214 L 4843,10233 5658,9660 6237,9253 6686,8937 7052,8680 7362,8462 7631,8273 7868,8106 8080,7957 8272,7822 8895,7384 9474,6977 9922,6662 10289,6405 10599,6186 10867,5998 11316,5682 11683,5424 11847,5309 11993,5206 12261,5017 12498,4851 12710,4702 14104,3722 15947,2426 17342,1446"/>
  <path fill="none" stroke="rgb(87,157,28)" stroke-width="80" stroke-linejoin="round" d="M 9426,11214 L 9474,10762 9922,9796 10289,9228 10599,8771 10867,8298 11316,7662 11683,7224 11847,7044 11993,6841 12261,6861 12498,6568 12710,6326 14104,4987 15947,3513 17342,2478"/>
  <path fill="none" stroke="rgb(255,211,32)" stroke-width="80" stroke-linejoin="round" d="M 3449,10871 L 4843,10871 5658,10871 6237,10871 6686,10834 7052,10576 7362,10358 7631,10170 7868,10003 8080,9854 8272,9719 8895,9281 9474,8874 9922,8558 10289,8300 10599,8082 10867,7894 11316,7578 11683,7320 11847,7205 11993,7205 12261,7205 12498,7205 12710,7205 14104,7205 15947,7205 17342,7205"/>
  <path fill="none" stroke="rgb(0,69,134)" stroke-width="80" stroke-linejoin="round" d="M 5144,11214 L 5658,10442 6237,9795 6686,9366 7052,9108 7362,8890 7631,8701 7868,8535 8080,8386 8272,8251 8895,7816 9474,7544 9922,7316 10289,7119 10599,6961 10867,6864 11316,6685 11683,6527 11847,6452 11993,6361 12261,5954 12498,5792 12710,5647 14104,4684 15947,3399 17342,2422"/>
@@ -113,24 +96,7 @@
  <path fill="none" stroke="rgb(0,69,134)" stroke-width="80" stroke-linejoin="round" d="M 12317,12856 L 13917,12856"/>
  <path fill="none" stroke="rgb(255,211,32)" stroke-width="80" stroke-linejoin="round" d="M 1663,13354 L 3263,13354"/>
  <path fill="none" stroke="rgb(87,157,28)" stroke-width="80" stroke-linejoin="round" d="M 6792,13354 L 8392,13354"/>
- <defs>
-  <mask id="mask2">
-   <g>
-    <defs>
-     <linearGradient id="gradient2" x1="13019" y1="-13156" x2="13019" y2="-13074" gradientUnits="userSpaceOnUse">
-      <stop offset="0.5" style="stop-color:rgb(128,128,128)"/>
-      <stop offset="0.5" style="stop-color:rgb(128,128,128)"/>
-      <stop offset="1" style="stop-color:rgb(128,128,128)"/>
-      <stop offset="1" style="stop-color:rgb(128,128,128)"/>
-     </linearGradient>
-    </defs>
-    <path style="fill:url(#gradient2)" d="M 12179,-13155 L 13859,-13155 13859,-13075 12179,-13075 12179,-13155 Z"/>
-   </g>
-  </mask>
- </defs>
- <g style="mask:url(#mask2)">
-  <path fill="none" stroke="rgb(0,0,0)" stroke-width="80" stroke-linejoin="round" d="M 12317,13354 L 13917,13354"/>
- </g>
+ <path fill="none" stroke="rgb(128,128,128)" stroke-width="80" stroke-linejoin="round" d="M 12317,13354 L 13917,13354"/>
  <text class="TextShape"><tspan class="TextParagraph" font-family="Arial" font-size="353px" font-weight="400"><tspan class="TextPosition" x="3363" y="12976"><tspan fill="rgb(0,0,0)" stroke="none">Summe ESt, SV, PV</tspan></tspan></tspan></text>
  <text class="TextShape"><tspan class="TextParagraph" font-family="Arial" font-size="353px" font-weight="400"><tspan class="TextPosition" x="8492" y="12976"><tspan fill="rgb(0,0,0)" stroke="none">BMGr-SV-PV</tspan></tspan></tspan></text>
  <text class="TextShape"><tspan class="TextParagraph" font-family="Arial" font-size="353px" font-weight="400"><tspan class="TextPosition" x="14017" y="12976"><tspan fill="rgb(0,0,0)" stroke="none">Uns bleiben</tspan></tspan></tspan></text>
