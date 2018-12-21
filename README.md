@@ -2,7 +2,7 @@
 
 *Illustriert für Menschen wie Dich und mich.*
 
-(Version 2016, no less!)
+(Version 2018)
 
 Schon lange träume ich davon (öööhm????), *die Steuer als solche* den 
 existierenden Leitfäden, Berechnungstabellen und HAK-Lehrbüchern zu 
@@ -76,7 +76,7 @@ SV-Beiträge sowie Einkommenssteuer ermitteln.
 Suche dazu das Einkommen auf der x-Achse, lies dann die gesuchten Beträge ab.
 
 Beispiel: Einkommen 70.000 €, ESt rund 13.000 €, SVA knapp unter 20.000 €; 
-übrig bleiben mehr als 70.000 €.
+übrig bleiben mehr als 37.000 €.
 
 Auch "Umkehrlösungen" sind denkbar, à la "Ich habe schon SVA bezahlt, was 
 bleibt an ESt zu stemmen?". In solchen Fällen arbeite über den *Restbetrag* 
@@ -85,8 +85,8 @@ BMGr-SVA, der grau gestrichelten Linie. Die *x-Koordinate* entspricht jetzt
 dem Einkommen vor der SVA-Zahlung, und die ESt liest sich ab wie zuvor.
 
 Beispiel: Nach SVA bleiben mir 40.000 €. Von y nach x auf der BMGr-SVA 
-finde ich ein zugrundeliegendes Einkommen von ca. 60.000 €, und also eine 
-ESt von etwas unter 10.000 €.
+finde ich ein zugrundeliegendes Einkommen von ca. 55.000 €, und also eine
+ESt von etwas über 8.000 €.
 
 (Caveat emptor, die unteren SVA/ESt-Grenzbeträge erfordern möglicherweise 
 die Verwendung der anderen BMGr-Linie. Ich hab das jetzt nicht vollständig 
@@ -97,8 +97,8 @@ durchgedacht.)
 
 Die Steuertarife wurden für 2016 angepasst, u.a. gibt es jetzt mehr
 "Stufen" und einen höheren Spitzensteuersatz (wie erwähnt 55 % ab 1e6 €).
-Im Vergleich zu den Sätzen von 2015, die vorher abgebildet waren,
-ergeben sich folgende Änderungen:
+Im Vergleich zu den Sätzen von 2015, die in der ersten Version abgebildet
+waren, ergeben sich folgende Änderungen:
 
 * Die Mindest- und Höchstwerte der Summe SVA (gelb) sind leicht gestiegen.
 * Die EST der BMGr-SVA-Freibetrag ist leicht gesunken, wodurch im
@@ -106,6 +106,9 @@ ergeben sich folgende Änderungen:
   Hurra, die Entlastung!!!
 * Entsprechend ist auch der Buckel der (rot gestrichelten) Summe ESt, SVA
   im Bereich ab 20.000 € flacher geworden.
+
+2018 wurden wieder die Mindest- und Höchstbeitragsgrundlagen sowie die
+Beiträge zur Unfallversicherung erhöht.
 
 
 # Wohin weiter?
